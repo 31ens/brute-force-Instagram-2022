@@ -13,7 +13,7 @@ Instagram brute force working in new format 2021, proxy added ^-* , open source,
 
 Usage of insTof for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
-![tweet](https://steamuserimages-a.akamaihd.net/ugc/943951547336911675/8FC1DADCBAF77B83508E1E203373F3EEFF9D7DF9/)
+
 
 ### A look at the tool
  
